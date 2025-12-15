@@ -255,7 +255,7 @@ while True:
     print(f"{Fore.GREEN}2️⃣   🔥  TEMPORARY BAN        {Fore.LIGHTBLACK_EX}:: Lock target temporarily")
     print(f"{Fore.LIGHTBLACK_EX}3️⃣   🧹  REMOVE PERM BAN      {Fore.LIGHTBLACK_EX}:: Reverse eternal restriction")
     print(f"{Fore.LIGHTBLACK_EX}4️⃣   🕒  REMOVE TEMP BAN      {Fore.LIGHTBLACK_EX}:: Restore temporary subject")
-    print(f"{Fore.LIGHTBLUE}5️⃣   👁️   VIEW BAN RECORDS     {Fore.LIGHTBLACK_EX}:: Access encrypted logs")
+    print(f"{Fore.LIGHTBLUE_EX}5️⃣   👁️   VIEW BAN RECORDS     {Fore.LIGHTBLACK_EX}:: Access encrypted logs")
     print(f"{Fore.LIGHTBLACK_EX}6️⃣   🚪  EXIT CONSOLE         {Fore.LIGHTBLACK_EX}:: Shutdown operation\n")
 
     print(f"{Fore.BLUE}{'─'*70}")
